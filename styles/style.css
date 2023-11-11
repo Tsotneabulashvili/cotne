@@ -1,0 +1,81 @@
+.logo{
+    vertical-align: middle;
+    display: inline-block;
+    width: 223px;
+    height: 58px;
+}
+ul{
+    display: inline-block;
+}
+li{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 69px;
+}
+.active{
+    color: #4E6FAE;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.nactive{
+    color: #8D81FF;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.div1{
+    background-color: #5012D5;
+    margin-top: 44px;
+    margin-bottom: 18px;
+    color: #84FF81;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: #8D81FF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-family: "BPG Nateli", sans-serif;
+    margin-bottom: 8px;
+}
+h1{
+    color: #4E6FAE;
+    margin-bottom: 13px;
+    font-family: "BPG Square Mtavruli", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+}
+.img1{
+    width: 447px;
+    height: 280px;
+    display: inline-block;
+}
+h2{
+    color: #4E6FAE;
+    font-family: "BPG Square Mtavruli", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: inline-block;
+    width: 778px;
+    height: 353px;
+    vertical-align: top;
+    margin-left: 66px;
+}
+article{
+    margin-bottom: 155px;
+}
